@@ -29,6 +29,8 @@ Create a Qr-code with data "hello" and Foreground color Black and Background col
 
 ` URL: https://qrcode-1-j5807843.deta.app/qrcode?site=hello&fg=black&bg=cyan `
 
+![qrcode](https://qrcode-1-j5807843.deta.app/qrcode?site=hello&fg=black&bg=cyan)
+
 To download the image add the parameter 'download'.
 
 ` URL:  https://qrcode-1-j5807843.deta.app/qrcode?site=hello&fg=black&bg=cyan&download=y `
