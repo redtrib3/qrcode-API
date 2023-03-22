@@ -37,4 +37,3 @@ To download the image add the parameter 'download'.
 
 ` URL:  https://qrcode-1-j5807843.deta.app/qrcode?site=hello&fg=black&bg=cyan&download=y `
  
-![qrcode](https://qrcode-1-j5807843.deta.app/qrcode?site=hello&fg=black&bg=cyan&download=y)
