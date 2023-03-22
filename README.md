@@ -9,8 +9,8 @@ API created on _FastAPI_ to generate PNG/JPEG qrcode images. <br><br>
 
 ## Endpoints:
 
-<h3> /qrcode </h3><br><br>
-<h5> parameters: </h5><br>
+### /qrcode 
+<h5> parameters: </h5>
 
 ```
  'site' -> required : used to specify the string/url data to create the qrcode on. 
