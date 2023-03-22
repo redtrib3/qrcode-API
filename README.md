@@ -25,6 +25,8 @@ Create a Qr-code with data "http://github.com" :
 
 ` URL: https://qrcode-1-j5807843.deta.app/qrcode?site=http://github.com `
 
+![qrcode-def](https://qrcode-1-j5807843.deta.app/qrcode?site=http://github.com)
+
 Create a Qr-code with data "hello" and Foreground color Black and Background color Cyan:
 
 ` URL: https://qrcode-1-j5807843.deta.app/qrcode?site=hello&fg=black&bg=cyan `
@@ -35,3 +37,4 @@ To download the image add the parameter 'download'.
 
 ` URL:  https://qrcode-1-j5807843.deta.app/qrcode?site=hello&fg=black&bg=cyan&download=y `
  
+![qrcode](https://qrcode-1-j5807843.deta.app/qrcode?site=hello&fg=black&bg=cyan&download=y)
