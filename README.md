@@ -9,7 +9,7 @@ API created on _FastAPI_ to generate PNG/JPEG qrcode images. <br><br>
 
 ## Endpoints:
 
-### /qrcode 
+## _/qrcode_
 <h5> parameters: </h5>
 
 ```
