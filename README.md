@@ -23,9 +23,9 @@ API created on _FastAPI_ to generate PNG/JPEG qrcode images. <br><br>
 
 Create a Qr-code with data "http://github.com" :
 
-` URL: https://qrcode-1-j5807843.deta.app/qrcode?site=http://github.com `
+` URL: https://qrcode-1-j5807843.deta.app/qrcode?site=https://github.com `
 
-![qrcode-def](https://qrcode-1-j5807843.deta.app/qrcode?site=http://github.com)
+![qrcode-def](https://qrcode-1-j5807843.deta.app/qrcode?site=https://github.com)
 
 Create a Qr-code with data "hello" and Foreground color Black and Background color Cyan:
 
