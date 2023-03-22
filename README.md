@@ -7,7 +7,7 @@
 API created on _FastAPI_ to generate PNG/JPEG qrcode images. <br><br>
 *docs* - https://qrcode-1-j5807843.deta.app/docs
 
-
+Example implementation of API : [ qrcode-generator website ](https://github.com/redtrib3/qrcode-generator)
 ## Endpoints:
 
 ## _/qrcode_
